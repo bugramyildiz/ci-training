@@ -13,6 +13,21 @@ class Fly {
 }
 
 function nextFrame(canvas, fly) {
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
+    document.write(5+6);
     fly.timer = Math.max(fly.timer - 1, 0);
 
     const context = canvas.getContext("2d");
